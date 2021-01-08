@@ -1,0 +1,15 @@
+Checking 4 file(s)...
+
+[test/input/broken_links/output/page2.html]
+1      jjff
+2      griffeltavla
+
+[test/input/broken_links/output/webpage.html]
+19     http://foobar.com/logopedia/images/3/38/Logo_coca-cola.PNG/revision/latest?cb=20161025133951
+29     http://www.google.com/kjell
+31     http://www.google.comi/leif
+
+[test/input/broken_links/output/subdir/anotherpage.html]
+3      ../../webpage.html
+
+Found 6 broken link(s) in 3 of 4 file(s)

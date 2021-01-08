@@ -1,0 +1,5 @@
+# output directory - where generated webpages are placed
+**/.output
+
+# Vim
+*.swp

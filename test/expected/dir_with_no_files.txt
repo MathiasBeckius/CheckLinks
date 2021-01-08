@@ -1,0 +1,9 @@
+Found no HTML-files in test/input/no_files
+
+Usage: check_links.pl [path]
+
+  [path] Path to a directory containing HTML-files or
+         or path to a HTML-file (*.html).
+
+Please note that non-readable files or directories are invalid!
+Non-readable files in a directory will be ignored!
